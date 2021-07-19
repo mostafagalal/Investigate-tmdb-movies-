@@ -39,7 +39,7 @@ revenue_adj
 Files
 tmdb-movies.csv
 
-#### ## Questions to answer
+#### Questions to answer
 - Which genres are most popular from year to year ?
 - Did movies with higher vote count received a better rating ?
 - How did the amount of produced films changed over time?
